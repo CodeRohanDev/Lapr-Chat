@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930521539212",
+    "project_id": "lapr-chat",
+    "storage_bucket": "lapr-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930521539212:android:4094182c9aa6663cb191a9",
+        "android_client_info": {
+          "package_name": "com.example.lapr_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2y9stgF0kr8rgcjdWV4QRNhvyprKIgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
